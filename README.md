@@ -104,7 +104,7 @@ When a user provides all three options, they should be applied in the order
 listed in the helpful usage message that Argparse constructs from the argument definitions. Here are a few examples:
 
 ```console
-$ python echo.py -tul "heLLo!"
+$ 
 Hello!
 ```
 
